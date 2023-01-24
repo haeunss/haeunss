@@ -11,5 +11,10 @@
   </div>
   <br/>
 <div>
+<br>
+<hr>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeunss&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeunss)](https://github.com/haeunss/github-readme-stats)
