@@ -18,5 +18,6 @@
 </div>
   <br/>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haeunss&show_icons=true">
+    <h2>✨✨</h2>
+    https://www.notion.so/92cdfb0f9b8c4c97aab80367e642717d
 </div>
