@@ -18,6 +18,6 @@
 </div>
   <br/>
 <div align="center">
-    <h2>✨✨</h2>
+    <h2>✨Notion✨</h2>
     https://www.notion.so/92cdfb0f9b8c4c97aab80367e642717d
 </div>
